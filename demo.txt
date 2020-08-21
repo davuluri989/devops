@@ -1,0 +1,10 @@
+Class
+{
+
+  P s void main()
+  {
+   .....
+   s.o.p("hello ");
+   }
+} 
+
